@@ -1,0 +1,1 @@
+Hi guys! This is a Wacom + Pen 3D Model Combo that I did it in Autodesk Fusion 360. I've shared with you in this repo the .stl file so feel free to use it! You can open it with Solidworks, ThinkerCAD, Meshmixer and others 3D viewers. See ya!
